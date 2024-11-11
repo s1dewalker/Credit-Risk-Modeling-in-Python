@@ -14,6 +14,6 @@
 - Conditions 
 
 
-<br/><br/>
- icons:
-<a href="https://www.flaticon.com/free-icons/debt" title="debt icons">Debt icons created by Afian Rochmah Afif - Flaticon</a>
+
+
+
