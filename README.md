@@ -16,6 +16,10 @@
 
 ## Error metrics <BR/>
 
+![](pics/recall.JPG)
+
+For credit card data, recall is the most important, since we want to minimize false negatives (meaning, the actual frauds that were not predicted correctly) <br/>
+
 
 
 
