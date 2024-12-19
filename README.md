@@ -6,8 +6,9 @@
 ### [SQL](https://github.com/s1dewalker/Credit-Risk-Modeling-in-Python/blob/main/SQLQuery_cr_loan2.sql) : EDA + Data Cleaning<br/>
 <br/>
 
-**EDA**: Exploring the data, `drop_duplicates`, finding anomalies or outliers, handling missing values with `fillna()` or `dropna()`, using `crosstab` for pivot tables 
-**Risk Modeling**: Using `RandomForestClassifier` with error metrics like recall, F1-score. Dealing with Underfitting (high training error) and overfitting (testing error >> training error). Validating models with cross validation methods.
+**EDA**: Exploring the data, `drop_duplicates`, finding anomalies or outliers, handling missing values with `fillna()` or `dropna()`, using `crosstab` for pivot tables. <br/>
+
+**Risk Modeling**: Using `RandomForestClassifier` with error metrics like recall, F1-score. Dealing with Underfitting (high training error) and overfitting (testing error >> training error). Validating models with cross validation methods.<br/>
 
 ## Analysing the 5 Cs of credit
 
