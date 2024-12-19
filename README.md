@@ -1,10 +1,13 @@
 # Credit Risk Modeling in Python
 ![](pics/crr.JPG)
 
-## Exploratory data analysis on credit data and risk modeling <BR/>
+## Exploratory data analysis (EDA) on credit data and credit risk modeling <BR/>
 ### [Python](https://github.com/s1dewalker/Credit-Risk-Modeling-in-Python/blob/main/credit_risk_modeling-2.ipynb) : EDA + Credit Risk Modeling + Model Validation + Tuning<br/>
 ### [SQL](https://github.com/s1dewalker/Credit-Risk-Modeling-in-Python/blob/main/SQLQuery_cr_loan2.sql) : EDA + Data Cleaning<br/>
 <br/>
+
+**EDA**: Exploring the data, `drop_duplicates`, finding anomalies or outliers, handling missing values with `fillna()` or `dropna()`, using `crosstab` for pivot tables 
+**Risk Modeling**: Using `RandomForestClassifier` with error metrics like recall, F1-score. Dealing with Underfitting (high training error) and overfitting (testing error >> training error). Validating models with cross validation methods.
 
 ## Analysing the 5 Cs of credit
 
