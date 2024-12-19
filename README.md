@@ -8,10 +8,10 @@
 
 ## Analysing the 5 Cs of credit
 
-- Character - borrower's credit history / creditworthiness
+- Character - borrower's credit history / creditworthiness, customer segmentation, demographics, card type, usage
 - Capacity - income (history of stable income)
 - Capital - savings, invvestments
-- Collateral - loan
+- Collateral - loan, tenure
 - Conditions - purpose of credit, economy, employment type
 
 ## Error metrics <BR/>
