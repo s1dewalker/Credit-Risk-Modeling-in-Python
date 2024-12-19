@@ -17,6 +17,7 @@
 
 ## Error metrics <BR/>
 
+Confusion matrix:
 ![](pics/recall.JPG)
 
 For credit card data, recall is the most important, since we want to minimize false negatives (FN). <BR/>
