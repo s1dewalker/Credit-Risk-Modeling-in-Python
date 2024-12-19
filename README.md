@@ -8,11 +8,11 @@
 
 ## Analysing the 5 Cs of credit
 
-- Character
-- Capacity
-- Capital
-- Collateral
-- Conditions 
+- Character - borrower's credit history / creditworthiness
+- Capacity - income (history of stable income)
+- Capital - savings, invvestments
+- Collateral - loan
+- Conditions - purpose of credit, economy, employment type
 
 
 
