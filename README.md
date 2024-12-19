@@ -13,6 +13,7 @@
 - Capital - savings, invvestments
 - Collateral - loan, tenure
 - Conditions - purpose of credit, economy, employment type
+<br/>
 
 ## Error metrics <BR/>
 
