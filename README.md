@@ -14,6 +14,7 @@
 - Collateral - loan
 - Conditions - purpose of credit, economy, employment type
 
+## Error metrics <BR/>
 
 
 
